@@ -40,7 +40,7 @@
         }
     },
     "custom/launcher": {
-        "format": ""
+        "format": ""
     },
     "custom/texttwo": {
         "exec": "echo 'File'",
